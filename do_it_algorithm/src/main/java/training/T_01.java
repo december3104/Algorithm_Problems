@@ -10,7 +10,7 @@ import java.util.Scanner;
  * URL : 없음
  * COMMENT : 3개의 정숫값을 입력하고 최댓값을 구합니다.
  */
-public class t_01 {
+public class T_01 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
