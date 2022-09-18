@@ -3,14 +3,17 @@
 코딩테스트 준비와 문제 해결 능력, 사고 능력 등을 키우기 위해 매일 최소 1문제 이상을 푸는 것이 목표.
 
 ## 문제 출처 + 풀이
-사이트
+### 사이트
 - [프로그래머스](https://programmers.co.kr/learn/challenges?tab=all_challenges)
 - [백준](https://www.acmicpc.net/step)
+### 책
+- [Do it! 자료구조와 함께 배우는 알고리즘 입문 자바 편](http://www.yes24.com/Product/Goods/109185787)
 
 ## 사용 언어
-```Java
-Java, C#, mssql
-```
+<span>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)</span>
+<img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 ## 커밋 메시지 규칙
 ```Java
