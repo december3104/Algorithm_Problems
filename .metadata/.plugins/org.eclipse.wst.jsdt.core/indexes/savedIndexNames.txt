@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/december3104/Desktop/sonye/algorithm/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2307710003.index
+703908469.index
+479216285.index
+486194275.index
+3708467309.index
+1009204568.index
